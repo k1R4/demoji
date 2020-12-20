@@ -1,2 +1,11 @@
 # demoji
-A collection of images downscaled to look like discord emojis 
+
+Requirements:
+ - Pillow (python)
+ - wget
+
+usage:
+```
+./demoji.sh <link to image> <name of emoji>
+```
+(downscaled image saved to ~/.emojis
