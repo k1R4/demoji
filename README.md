@@ -8,4 +8,4 @@ usage:
 ```
 ./demoji.sh <link to image> <name of emoji>
 ```
-(downscaled image saved to ~/.emojis
+(downscaled image saved to ~/.emojis)
