@@ -6,6 +6,7 @@ Requirements:
 
 usage:
 ```
+cd .demoji/
 ./demoji.sh <link to image> <name of emoji>
 ```
 (downscaled image saved to ~/.emojis)
